@@ -4,5 +4,6 @@ public class Main {
         ferrari.steer(45);
         ferrari.accelerate(30);
         ferrari.accelerate(20);
+        ferrari.accelerate(-10);
     }
 }
